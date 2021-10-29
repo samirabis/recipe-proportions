@@ -96,7 +96,7 @@ export class Proportion extends Component {
     return (
       <div className="container mx-auto">
         <Navbar />
-        <div className="overflow-x-auto">
+        <div className="overflow-x-auto mx-15">
           <table className="table w-full">
             <thead>
               <tr>
@@ -135,7 +135,7 @@ export class Proportion extends Component {
             ))}
           </table>
         </div>
-        <div className="container mx-auto py-10">
+        <div className="container mx-auto px-10 py-10">
           <div className="form-control">
             <label className="label">
               <span className="label-text">Ingrediente</span>
@@ -171,11 +171,16 @@ export class Proportion extends Component {
               <option selected value="gr">
                 grammi
               </option>
+              <option value="kg">chilogrammi</option>
               <option value="ml">millilitri</option>
-              <option value="kg">chili</option>
-              <option value="pz">porzioni</option>
+              <option value="l">litri</option>
+              <option value="prz">porzioni</option>
+              <option value="pz">pezzo</option>
+              <option value="C">cucchiaio</option>
+              <option value="c">cucchiaino</option>
+              <option value="tz">tazza</option>
             </select>
-            <button className="btn btn-primary" onClick={this.addNewItem}>
+            <button className="btn btn-primary m-10" onClick={this.addNewItem}>
               Aggiungi
             </button>
           </div>
