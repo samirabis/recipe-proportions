@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/recipe-proportions/static/css/main.28e4c962.chunk.css",
-    "main.js": "/recipe-proportions/static/js/main.0a6dc201.chunk.js",
-    "main.js.map": "/recipe-proportions/static/js/main.0a6dc201.chunk.js.map",
-    "runtime-main.js": "/recipe-proportions/static/js/runtime-main.0ac4dfeb.js",
-    "runtime-main.js.map": "/recipe-proportions/static/js/runtime-main.0ac4dfeb.js.map",
-    "static/js/2.30a628d8.chunk.js": "/recipe-proportions/static/js/2.30a628d8.chunk.js",
-    "static/js/2.30a628d8.chunk.js.map": "/recipe-proportions/static/js/2.30a628d8.chunk.js.map",
-    "static/js/3.ce227d71.chunk.js": "/recipe-proportions/static/js/3.ce227d71.chunk.js",
-    "static/js/3.ce227d71.chunk.js.map": "/recipe-proportions/static/js/3.ce227d71.chunk.js.map",
+    "main.css": "/recipe-proportions/static/css/main.a2477072.chunk.css",
+    "main.js": "/recipe-proportions/static/js/main.323d3e30.chunk.js",
+    "main.js.map": "/recipe-proportions/static/js/main.323d3e30.chunk.js.map",
+    "runtime-main.js": "/recipe-proportions/static/js/runtime-main.f7173950.js",
+    "runtime-main.js.map": "/recipe-proportions/static/js/runtime-main.f7173950.js.map",
+    "static/js/2.b54e18a6.chunk.js": "/recipe-proportions/static/js/2.b54e18a6.chunk.js",
+    "static/js/2.b54e18a6.chunk.js.map": "/recipe-proportions/static/js/2.b54e18a6.chunk.js.map",
+    "static/js/3.13fae601.chunk.js": "/recipe-proportions/static/js/3.13fae601.chunk.js",
+    "static/js/3.13fae601.chunk.js.map": "/recipe-proportions/static/js/3.13fae601.chunk.js.map",
     "index.html": "/recipe-proportions/index.html",
-    "static/css/main.28e4c962.chunk.css.map": "/recipe-proportions/static/css/main.28e4c962.chunk.css.map",
-    "static/js/2.30a628d8.chunk.js.LICENSE.txt": "/recipe-proportions/static/js/2.30a628d8.chunk.js.LICENSE.txt"
+    "static/css/main.a2477072.chunk.css.map": "/recipe-proportions/static/css/main.a2477072.chunk.css.map",
+    "static/js/2.b54e18a6.chunk.js.LICENSE.txt": "/recipe-proportions/static/js/2.b54e18a6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0ac4dfeb.js",
-    "static/js/2.30a628d8.chunk.js",
-    "static/css/main.28e4c962.chunk.css",
-    "static/js/main.0a6dc201.chunk.js"
+    "static/js/runtime-main.f7173950.js",
+    "static/js/2.b54e18a6.chunk.js",
+    "static/css/main.a2477072.chunk.css",
+    "static/js/main.323d3e30.chunk.js"
   ]
 }
