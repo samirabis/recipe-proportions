@@ -1,15 +1,14 @@
-import React from "react";
-import { Component } from "react";
-import Navbar from "./Navbar";
-import * as _ from "lodash";
+import React from 'react';
+import { Component } from 'react';
+import * as _ from 'lodash';
 
 export class Proportion extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      newIngredient: "",
-      newQuantity: "",
-      newType: "gr",
+      newIngredient: '',
+      newQuantity: '',
+      newType: 'gr',
       items: [],
     };
 
@@ -39,9 +38,9 @@ export class Proportion extends Component {
     items.push(newItem);
 
     this.setState({
-      newIngredient: "",
-      newQuantity: "",
-      newType: "gr",
+      newIngredient: '',
+      newQuantity: '',
+      newType: 'gr',
       items: items,
     });
   }
@@ -95,8 +94,8 @@ export class Proportion extends Component {
   render() {
     return (
       <div className="container mx-auto">
-        <Navbar />
         <div className="overflow-x-auto mx-15">
+          <h1 className="font-bold p-5 text-center text-lg">Proporzioni</h1>
           <table className="table w-full">
             <thead>
               <tr>
@@ -135,7 +134,7 @@ export class Proportion extends Component {
             ))}
           </table>
         </div>
-        <div className="container mx-auto px-10 py-10">
+        <div className="container mx-auto px-10 py-10 max-w-sm">
           <div className="form-control">
             <label className="label">
               <span className="label-text">Ingrediente</span>
@@ -180,7 +179,7 @@ export class Proportion extends Component {
               <option value="c">cucchiaino</option>
               <option value="tz">tazza</option>
             </select>
-            <button className="btn btn-primary m-10" onClick={this.addNewItem}>
+            <button className="btn btn-primary my-10" onClick={this.addNewItem}>
               Aggiungi
             </button>
           </div>
