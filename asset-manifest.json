@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/recipe-proportions/static/css/main.a2477072.chunk.css",
-    "main.js": "/recipe-proportions/static/js/main.323d3e30.chunk.js",
-    "main.js.map": "/recipe-proportions/static/js/main.323d3e30.chunk.js.map",
+    "main.css": "/recipe-proportions/static/css/main.4156f8cd.chunk.css",
+    "main.js": "/recipe-proportions/static/js/main.4be1bd27.chunk.js",
+    "main.js.map": "/recipe-proportions/static/js/main.4be1bd27.chunk.js.map",
     "runtime-main.js": "/recipe-proportions/static/js/runtime-main.f7173950.js",
     "runtime-main.js.map": "/recipe-proportions/static/js/runtime-main.f7173950.js.map",
-    "static/js/2.b54e18a6.chunk.js": "/recipe-proportions/static/js/2.b54e18a6.chunk.js",
-    "static/js/2.b54e18a6.chunk.js.map": "/recipe-proportions/static/js/2.b54e18a6.chunk.js.map",
+    "static/js/2.ee3f9825.chunk.js": "/recipe-proportions/static/js/2.ee3f9825.chunk.js",
+    "static/js/2.ee3f9825.chunk.js.map": "/recipe-proportions/static/js/2.ee3f9825.chunk.js.map",
     "static/js/3.13fae601.chunk.js": "/recipe-proportions/static/js/3.13fae601.chunk.js",
     "static/js/3.13fae601.chunk.js.map": "/recipe-proportions/static/js/3.13fae601.chunk.js.map",
     "index.html": "/recipe-proportions/index.html",
-    "static/css/main.a2477072.chunk.css.map": "/recipe-proportions/static/css/main.a2477072.chunk.css.map",
-    "static/js/2.b54e18a6.chunk.js.LICENSE.txt": "/recipe-proportions/static/js/2.b54e18a6.chunk.js.LICENSE.txt"
+    "static/css/main.4156f8cd.chunk.css.map": "/recipe-proportions/static/css/main.4156f8cd.chunk.css.map",
+    "static/js/2.ee3f9825.chunk.js.LICENSE.txt": "/recipe-proportions/static/js/2.ee3f9825.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f7173950.js",
-    "static/js/2.b54e18a6.chunk.js",
-    "static/css/main.a2477072.chunk.css",
-    "static/js/main.323d3e30.chunk.js"
+    "static/js/2.ee3f9825.chunk.js",
+    "static/css/main.4156f8cd.chunk.css",
+    "static/js/main.4be1bd27.chunk.js"
   ]
 }
